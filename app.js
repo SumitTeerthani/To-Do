@@ -29,3 +29,7 @@ function addTask() {
       taskInput.value = "";
     }
   }
+
+
+
+  //npx tailwindcss -i ./styles.css -o ./src/output.css --watch
