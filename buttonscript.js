@@ -1,4 +1,4 @@
-const button = document.getElementById('addItem');
+/*const button = document.getElementById('addItem');
 
   button.addEventListener('click', async () => {
     const dataToSend = {
@@ -24,3 +24,4 @@ const button = document.getElementById('addItem');
       console.error('Error sending request:', err);
     }
   });
+  */
